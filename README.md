@@ -33,9 +33,9 @@ Before the workshop you need to install latest stable version of [Node.js](http:
  * [PWM - Servo](content/servo/)
  * [Analog Input - Temperature Sensor](content/temperature/)
 * **Other Components**
- * [Light Sensor](content/light_sensor/)
- * [Music Player](content/music_player/)
- * [Digital Mechanical Switch](content/switch/)
+ * [Light Sensor (Photoresistor)](content/light_sensor/)
+ * [Music Player (Piezo Buzzer)](content/music_player/)
+ * [Digital Mechanical Switch (Relay)](content/switch/)
  * [Joystick](content/joystick/)
  * [LCD Screen](content/lcd/)
 * **Fun projects**

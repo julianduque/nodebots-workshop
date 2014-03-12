@@ -1,4 +1,4 @@
-# Light Sensor
+# Light Sensor (Photoresistor)
 
 ## Circuit
 
