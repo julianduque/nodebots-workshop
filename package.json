@@ -1,0 +1,12 @@
+{
+  "name": "nodebots-workshop",
+  "version": "0.0.0",
+  "private": "true",
+  "description": "NodeBots Workshop for JSConf Uruguay",
+  "main": "index.js",
+  "author": "Julian Duque <julianduquej@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "johnny-five": "^0.7.28"
+  }
+}
