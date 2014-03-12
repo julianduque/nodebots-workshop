@@ -27,4 +27,4 @@ board.on('ready', function () {
 $ node switch.js
 ```
 
-### [Go to Next Lesson >>](../switch/)
+### [Go to Next Lesson >>](../joystick/)
