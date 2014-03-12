@@ -32,13 +32,18 @@ Before the workshop you need to install latest stable version of [Node.js](http:
  * [Digital Input - Push Button](content/button/)
  * [PWM - Servo](content/servo/)
  * [Analog Input - Temperature Sensor](content/temperature/)
-* **Fun projects**
- * [Holiday Ligths](content/holiday_lights/)
+* **Other Components**
  * [Light Sensor](content/light_sensor/)
  * [Music Player](content/music_player/)
+ * [Digital Mechanical Switch](content/switch/)
+ * [Joystick](content/joystick/)
+ * [LCD Screen](content/lcd/)
+* **Fun projects**
+ * [Holiday Ligths](content/holiday_lights/)
  * [Web Controlled RGB Led](content/web_rgb/)
  * [Realtime Temperature Sensor using WebSockets](content/realtime_temperature/)
- * [Switch](content/switch/)
+ * [Joystick Robot Controller](content/joystick_robot/)
+ * [Drumbox](content/drumbox/)
 * **Other projects with Arduino and Node.js**
  * [Realtime MQTT Server](content/realtime_mqtt/)
 

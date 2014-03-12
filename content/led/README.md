@@ -31,4 +31,4 @@ board.on('ready', function () {
 $ node led.js
 ```
 
-### [Go Next Lesson >>](../button/)
+### [Go to Next Lesson >>](../button/)

@@ -15,4 +15,4 @@ In order to work with [Johnny-Five](https://github.com/rwaldron/johnny-five) we 
 
 ![Uploaded](http://i.imgur.com/uA3QPl5.png)
 
-### [Go Next Lesson >>](../led/)
+### [Go to Next Lesson >>](../led/)
