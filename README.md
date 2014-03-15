@@ -1,5 +1,7 @@
 # NodeBots Workshop
 
+
+
 ![NodeBots](http://i.imgur.com/gdfee39.png)
 
 For more information about the community visit [nodebots.io](http://nodebots.io)
