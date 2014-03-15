@@ -1,0 +1,17 @@
+<input id="client" type="text" />
+<input id="message" type="text" />
+<button id="send">Send</button>
+
+<script src="/primus/primus.js"></script>
+<script type="text/javascript">
+  var primus = Primus.connect();
+
+  var client = document.getElementById('client');
+  var message = document.getElementById('message');
+  var send = document.getElementById('send');
+
+  send.onclick = function (e) {
+    e.preventDefault();
+    primus.write({ client: client.value, message: message.value });
+  }
+</script>

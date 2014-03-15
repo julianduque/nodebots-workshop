@@ -1,29 +1,23 @@
-# Digital Input - Push Button
+# PWM - Servo
 
 ## Circuit
 
-![Button](http://i.imgur.com/46o9Mb9.png)
+![Servo](http://i.imgur.com/1mFapu4.png)
 
 ## Code
 
 ``` js
 var five  = require('johnny-five'),
     board = new five.Board(),
-    button;
+    servo;
 
 board.on('ready', function () {
-  button = new five.Button(8);
+  servo = new five.Servo(3);
 
-  button.on('down', function () {
-    console.log('down');
-  });
+  servo.sweep();
 
-  button.on('hold', function () {
-    console.log('hold');
-  });
-
-  button.on('up', function () {
-    console.log('up');
+  this.repl.inject({
+    servo: servo
   });
 
 });
@@ -32,7 +26,7 @@ board.on('ready', function () {
 ## Run
 
 ```
-$ node button.js
+$ node servo.js
 ```
 
-### [Go to Next Lesson >>](../servo/)
+### [Go to Next Lesson >>](../potentiometer/)

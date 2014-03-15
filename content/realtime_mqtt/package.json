@@ -1,0 +1,17 @@
+{
+  "name": "mqtt-server",
+  "version": "0.0.1",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Julian Duque <julianduquej@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mqtt": "^0.3.7",
+    "primus": "^2.0.3",
+    "ws": "^0.4.31"
+  }
+}

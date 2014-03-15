@@ -15,4 +15,14 @@ In order to work with [Johnny-Five](https://github.com/rwaldron/johnny-five) we 
 
 ![Uploaded](http://i.imgur.com/uA3QPl5.png)
 
+## Install Dependencies
+
+You'll need to install all the required dependencies for this workshop, you can do it in a easy way running the following command from the application root directory:
+
+```
+$ npm install
+```
+
+Thats it!, you are ready to start with some basic Hardware Hacking with Node.js and Arduino!
+
 ### [Go to Next Lesson >>](../led/)
