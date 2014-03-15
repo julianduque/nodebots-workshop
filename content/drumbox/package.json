@@ -1,0 +1,9 @@
+{
+  "name": "drumbox",
+  "version": "0.0.0",
+  "private": true,
+  "description": "A basic drumbox",
+  "main": "drumbox.js",
+  "author": "Julian Duque <julianduquej@gmail.com>",
+  "license": "MIT"
+}

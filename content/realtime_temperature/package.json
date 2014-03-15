@@ -1,0 +1,15 @@
+{
+  "name": "realtime-temperature",
+  "version": "0.0.0",
+  "private": "true",
+  "description": "A Realtime Temperature Sensor",
+  "main": "index.js",
+  "author": "Julian Duque <julianduquej@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "primus-emitter": "^3.0.0",
+    "primus": "^2.0.4",
+    "johnny-five": "^0.7.28",
+    "engine.io": "^1.0.4"
+  }
+}

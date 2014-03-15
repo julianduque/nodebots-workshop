@@ -45,6 +45,7 @@ Before the workshop you need to install latest stable version of [Node.js](http:
  * [Web Controlled RGB Led](content/web_rgb/)
  * [Realtime Temperature Sensor using WebSockets](content/realtime_temperature/)
  * [Drumbox](content/drumbox/)
+ * Your awesome project here!
 * **Other projects with Arduino and Node.js**
  * [Realtime MQTT Server](content/realtime_mqtt/)
 

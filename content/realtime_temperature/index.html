@@ -1,0 +1,10 @@
+<h1 id="temp"></h1>
+<script src="/primus/primus.js"></script>
+<script>
+  var socket = Primus.connect('http://localhost:8080');
+  socket.on('temperature', function (temp) {
+    console.log(temp);
+    document.getElementById('temp').innerHTML = parseFloat(temp.celsius).toFixed(2) + '&deg;C';
+  });
+
+</script>
