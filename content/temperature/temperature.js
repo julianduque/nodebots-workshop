@@ -18,7 +18,7 @@ function getTemperature(value) {
   var celsius = (5 * value * 100) / 1024;
 
   // TM36
-  // var celsius = ((this.value * 0.004882814) - 0.5) * 100;
+  // var celsius = ((value * 0.004882814) - 0.5) * 100;
 
 
   var fahrenheit = celsius * (9 / 5) + 32;
