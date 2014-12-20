@@ -14,7 +14,7 @@ var five  = require('johnny-five'),
 board.on('ready', function () {
   rgb = new five.Led.RGB([3, 5, 6]);
 
-  rgb.pulse();
+  rgb.color('#ff0000');
 
   this.repl.inject({
     rgb: rgb
