@@ -1,12 +1,12 @@
 var five  = require('johnny-five'),
     board = new five.Board(),
-    pin;
+    relay;
 
 board.on('ready', function () {
-  pin = new five.Pin(8);
+  relay = new five.Relay(8);
 
   this.repl.inject({
-    pin: pin
+    relay: relay
   });
 
 });
