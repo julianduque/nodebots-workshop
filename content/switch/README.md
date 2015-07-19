@@ -3,7 +3,7 @@
 ## Electronic Components
 
 - [1 Relay 5v ](https://en.wikipedia.org/wiki/Relay)
-- [2 Diode Led](https://en.wikipedia.org/wiki/Light-emitting_diode)
+- [2 Diodes Led](https://en.wikipedia.org/wiki/Light-emitting_diode)
 - [3 Resistor 330 ohm](https://en.wikipedia.org/wiki/Resistor)
 - [1 Diode 1N4007](https://en.wikipedia.org/wiki/1N4001_and_1N5400_series_diodes)
 - [1 Transist0r 2N 2222](https://en.wikipedia.org/wiki/2N2222)
