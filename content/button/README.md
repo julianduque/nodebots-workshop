@@ -3,7 +3,7 @@
 ## Electronic Components
 
 - [1 Push Switch](https://en.wikipedia.org/wiki/Push_switch)
-- [1 100 Ohm Resistor](https://en.wikipedia.org/wiki/Resistor)
+- [1 Resistor 100 Ohm](https://en.wikipedia.org/wiki/Resistor)
 
 ## Circuit
 
