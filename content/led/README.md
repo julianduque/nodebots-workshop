@@ -1,5 +1,10 @@
 # Digital Output - Led
 
+## Electronic Components
+
+ - [220 Ohm Resistor](https://en.wikipedia.org/wiki/Resistor)
+ - [Diodo Led](https://en.wikipedia.org/wiki/Light-emitting_diode)
+
 ## Circuit
 
 ![Led](http://i.imgur.com/A6kFJ3g.png)
