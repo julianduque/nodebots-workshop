@@ -1,5 +1,10 @@
 # Led RGB
 
+## Electronic Components
+
+- 1 Diode RGB
+- 3 Resistors 330 Ohm 
+
 ## Circuit
 
 ![RGB](http://i.imgur.com/kc3fxsY.png)
