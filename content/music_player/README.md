@@ -1,5 +1,9 @@
 # Music Player (Piezo Buzzer)
 
+## Electronic Components
+
+-[1 Buzzer](https://en.wikipedia.org/wiki/Buzzer)
+
 ## Circuit
 
 ![Music Player](http://i.imgur.com/1zWACEl.png)

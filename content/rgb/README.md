@@ -1,5 +1,10 @@
 # Led RGB
 
+## Electronic Components
+
+- 1 Diode RGB
+- 3 Resistors 330 Ohm 
+
 ## Circuit
 
 ![RGB](http://i.imgur.com/kc3fxsY.png)
@@ -29,4 +34,4 @@ board.on('ready', function () {
 $ node rgb.js
 ```
 
-### [Go to Next Lesson >>](../holiday_ligths/)
+### [Go to Next Lesson >>](../holiday_lights/)
