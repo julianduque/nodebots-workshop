@@ -1,5 +1,9 @@
 # Joystick
 
+## Electric Components
+
+- 1 Analog Joystick
+
 ## Circuit
 
 ![Joystick](http://i.imgur.com/NHJh2w4.png)

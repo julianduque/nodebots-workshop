@@ -1,5 +1,9 @@
 # PWM - Servo
 
+## Electronic Components
+
+- [1 Servo](https://en.wikipedia.org/wiki/Servo_(radio_control))
+
 ## Circuit
 
 ![Servo](http://i.imgur.com/1mFapu4.png)

@@ -1,5 +1,10 @@
 # LCD Screen
 
+## Electronic Components
+
+- 1 LCD Module Display
+- 1 Potentiometer
+
 ## Circuit
 
 ![LCD](http://i.imgur.com/zJOxkWw.png)
