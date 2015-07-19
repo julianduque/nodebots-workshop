@@ -1,5 +1,8 @@
 # Analog Input - Potentiometer
 
+## Electronic Components
+
+- [1 Potentiometer](https://en.wikipedia.org/wiki/Potentiometer)
 ## Circuit
 
 ![Potentiometer](http://i.imgur.com/nMHAYy1.png)
