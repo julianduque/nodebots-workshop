@@ -2,6 +2,11 @@
 
 ## Circuit
 
+## Electronic Components
+
+- [1 Push Switch](https://en.wikipedia.org/wiki/Push_switch)
+- [1 100 Ohm Resistor](https://en.wikipedia.org/wiki/Resistor)
+
 ![Button](http://i.imgur.com/46o9Mb9.png)
 
 ## Code
