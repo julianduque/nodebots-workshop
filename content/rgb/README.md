@@ -34,4 +34,4 @@ board.on('ready', function () {
 $ node rgb.js
 ```
 
-### [Go to Next Lesson >>](../holiday_ligths/)
+### [Go to Next Lesson >>](../holiday_lights/)
