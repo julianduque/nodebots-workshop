@@ -2,8 +2,8 @@
 
 ## Electronic Components
 
- - [220 Ohm Resistor](https://en.wikipedia.org/wiki/Resistor)
- - [Diodo Led](https://en.wikipedia.org/wiki/Light-emitting_diode)
+ - [1 Resistor 220 Ohm](https://en.wikipedia.org/wiki/Resistor)
+ - [1 Diodo Led](https://en.wikipedia.org/wiki/Light-emitting_diode)
 
 ## Circuit
 
