@@ -1,5 +1,11 @@
 # Light Sensor (Photoresistor)
 
+## Electronic Components
+
+- [1 Photoresistor](https://en.wikipedia.org/wiki/Photoresistor)
+- [1 Diodo Led](https://en.wikipedia.org/wiki/Light-emitting_diode)
+- [2 Resistor 220 ohm](https://en.wikipedia.org/wiki/Resistor)
+
 ## Circuit
 
 ![Light Sensor](http://i.imgur.com/A15e29K.png)
