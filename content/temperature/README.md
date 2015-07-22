@@ -1,5 +1,9 @@
 # Analog Input - Temperature
 
+## Electronic Components
+
+- [1 LM35 Integrated Circuit ](https://es.wikipedia.org/wiki/LM35)
+
 ## Circuit
 
 ![Temperature](http://i.imgur.com/1sVJH61.png)
